@@ -5,6 +5,6 @@ This script is an upvote bot for the populair dutch T.V. serie 'Expeditierobinso
 
 ## Idea & Realization
 
-At first this started out as a joke, @bxy tested the website, found a way to auto-vote, and got the idea to create a script to auto-vote, which @bermdingetje created and optimized.
+At first this started out as a joke, @boxxyhf tested the website, found a way to auto-vote, and got the idea to create a script to auto-vote, which @bermdingetje created and optimized.
 
 But now that the voting closes we thought it was time to release the code, so everyone can learn and benefit from it
